@@ -26,6 +26,7 @@ python AVLTree.py
 
 - `AVLTree.py` – Core AVL Tree implementation
 - `AVLFullTester.py` – Test cases for insert, delete, and search
+- `AVLTree_Analysis.pdf` – Theoretical analysis and experimental performance results
 
 ## Example
 
