@@ -1,6 +1,4 @@
-#username - oferdadia
-#id1      - 213033913
-#name1    - Ofer Dadia
+# Author: Ofer Dadia | github.com/oferdadia
 
 
 """A class represnting a node in an AVL tree"""
